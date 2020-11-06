@@ -9,6 +9,6 @@
   
   
   ### top dependency used in this project
-   - elliptic    (elliptic curve cryptography
-    - pubnub     (to broadcast updates to all block chain)
+   - elliptic    (elliptic curve cryptography)
+    - pubnub     (to broadcast updates to all block)
     - redis      (in-memory data structure)
