@@ -1,1 +1,3 @@
-# crypto_currency
+Crypto currency system developed in react environment.
+
+  
